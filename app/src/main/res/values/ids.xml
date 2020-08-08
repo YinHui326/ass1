@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="my_account" type="id">My account</item>
+    <item name="track" type="id">Track</item>
+    <item name="deals" type="id">Deals</item>
+    <item name="text_myaccount" type="id" />
+</resources>
+

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ass1</string>
+    <string name="title_track">Track</string>
+    <string name="title_deals">Deals</string>
+    <string name="title_myaccount">Myaccount</string>
+    <string name="title_add">Add</string>
+    <string name="title_newdelivery">New Delivery</string>
+    <string name="tii"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
